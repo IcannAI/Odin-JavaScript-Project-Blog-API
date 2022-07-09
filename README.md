@@ -1,1 +1,3 @@
-# Odin-JavaScript-Project-Blog-API
+# JavaScript Project: Blog API
+
+### [Guideline](https://www.theodinproject.com/lessons/nodejs-blog-api)
